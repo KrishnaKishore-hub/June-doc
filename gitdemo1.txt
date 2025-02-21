@@ -1,0 +1,1 @@
+my first instance in ec2
