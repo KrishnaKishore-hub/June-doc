@@ -1,1 +1,2 @@
-my first instance in ec2
+my first instance in ec2.
+Resubmitting the file.
