@@ -2,3 +2,4 @@ my first instance in ec2.
 Updated the second line.
 Resubmitting the file.
 Krishna Kishore.
+Checking the merge conflict.
