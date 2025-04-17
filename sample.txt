@@ -1,2 +1,4 @@
 checking merge conflict.
 All good.
+Checking the merge conflict again.
+
