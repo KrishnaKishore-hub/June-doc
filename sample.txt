@@ -1,3 +1,8 @@
 checking merge conflict.
 All good.
+<<<<<<< HEAD
 Hope merge conflict arises now.
+=======
+Checking the merge conflict again.
+
+>>>>>>> feature6
