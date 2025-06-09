@@ -1,1 +1,2 @@
+Checking rebase.
 Checking merge concept.
